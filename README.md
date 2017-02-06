@@ -2,4 +2,4 @@
 Color picker practice for jQuery 
 
 
-Live DEMO: http://doc.gold.ac.uk/~jlin015/webdev/ex3/
+Live DEMO: https://linuk.github.io/ColourPicker/
